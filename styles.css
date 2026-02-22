@@ -80,7 +80,7 @@ article {
 
 .illustration {
   margin-inline: auto;
-  background-image: url("/assets/images/illustration-article-sm.svg");
+  background-image: url("assets/images/illustration-article-sm.svg");
   background-position: center;
   background-repeat: no-repeat;
   background-size: cover;
@@ -94,7 +94,7 @@ article {
     width: 384px;
   }
   .illustration {
-    background-image: url("/assets/images/illustration-article-lg.svg");
+    background-image: url("assets/images/illustration-article-lg.svg");
   }
 }
 
